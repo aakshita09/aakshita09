@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @aakshita09
-- 👀 I’m interested in Web Development and DSA
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m interested in Software and Product Management
